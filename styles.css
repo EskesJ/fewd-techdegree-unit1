@@ -76,6 +76,7 @@ header.aboutme {
   padding-top: 60px;
 }
 
+
 header {
   line-height: 1.5;
 }
@@ -91,6 +92,7 @@ header .profile-image {
 header .profile-image:hover {
   transform: scale(1.1) rotate(360deg) skewY(360deg);
 }
+
 .tag {
   background-color: #efefef;
   color: black;
